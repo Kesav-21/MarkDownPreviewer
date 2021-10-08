@@ -1,0 +1,7 @@
+body {
+    background: rgb(32,0,36);
+background: linear-gradient(90deg, rgba(32,0,36,1) 0%, rgba(3,46,16,1) 0%, rgba(9,113,121,1) 25%, rgba(0,212,255,1) 100%);
+}
+#editor{
+    height: 800px;
+}
